@@ -11,4 +11,5 @@
 - Telegram: https://t.co/544mPf8wEI?amp=1
 - Satoex: https://trade.satoex.com/trading/petsbnb
 - Morioh: https://morioh.com/p/6b7e762532b0
-- 
+- Bitcointalk: https://bitcointalk.org/index.php?topic=5339078.0
+- Dex: https://www.dextools.io/app/pancakeswap/pair-explorer/0xd1703f73db508849fc31814cccbe6d53a76e8895
