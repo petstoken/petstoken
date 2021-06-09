@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**petstoken/petstoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**petstoken/petstoken** 
+
+- Pancake:  https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x644e4a2eb5c40eda149a81f6881eebf7b1066685
+- Web: petstoken.io
+- Twitter: https://twitter.com/petstoken
+- Discord: https://t.co/Xfk9q8btNi?amp=1
+- Telegram: https://t.co/544mPf8wEI?amp=1
+- Satoex: https://trade.satoex.com/trading/petsbnb
+- Morioh: https://morioh.com/p/6b7e762532b0
+- 
